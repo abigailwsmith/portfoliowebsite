@@ -1,0 +1,78 @@
+---
+pagetitle: "cv"
+---
+
+
+
+
+
+## Education
+
+**B.S. Data Science, B.S. History** — St. Lawrence University, May 2026  
+Honors, *cum laude*. Dean’s Incentive Award Recipient.
+
+Senior Honors Thesis: *Analyzing the Correspondence of John Laurens and Alexander Hamilton Using LLMs and Traditional Historical Analysis*
+
+**International Baccalaureate Diploma** — Oslo International School, Bekkestua, Norway, May 2022
+
+
+
+## Experience
+
+**ESPN Broadcast Booth Tech** — Villanova University, October 2026 – Present  
+Operate Ross Xpression graphics during live ESPN broadcasts, for all Villanova Division I sports.
+
+**NCAA Varsity Rowing Athlete** — St. Lawrence University, September 2022 – May 2026
+Competed at the Division III level in collegiate women’s rowing.
+
+**Admissions Ambassador** — St. Lawrence University, August 2024 – May 2026  
+Managed contact with prospective students. Led campus tours for prospective students and families. Served as ambassador at university visit days. Presented on the Math, Computer Science, Statistics, and Data Science Department at the Admitted Student Webinar.
+
+**ESPN Broadcast Booth Tech** — St. Lawrence University, November 2023 – March 2026  
+Worked with 3Play review, contacting referees for replaying controversial plays. Controlled the sound feed to ESPN viewers during Division I hockey broadcasts.
+
+**STEM-UP Teaching Experience for Undergraduates Fellow** — Temple University, June 2025 – August 2025  
+Led data science and mathematics courses for high school students as a Student Course Leader Fellow.
+
+**SCORE Network Undergraduate Researcher** — Department of Math, Computer Science, Data Science & Statistics, St. Lawrence University, January 2024 – August 2024  
+Created exercises for statistics students using sports data as part of NSF-sponsored research. Contributed modules on Nordic Skiing, Olympic Rowing, Handball, Badminton, Fencing, Concept2 Erg Scores, Race Walking, and MLB Home Plate Umpires.
+
+
+
+## Awards & Honors
+
+- **Chi Alpha Sigma** (National College Athlete Honor Society), inducted May 2026
+- **Phi Alpha Theta** (National History Honor Society), inducted April 2025
+- **St. Lawrence History Honors**, May 2026
+- **St. Lawrence Cum Laude Honors**, May 2026
+- **Liberty League All-Academic**, 2023–2024, 2024–2025, 2025–2026
+- **Dean’s Incentive Award Recipient**, August 2022 – May 2026
+- **Dean’s List**, Fall 2025
+
+
+
+## Skills
+
+**Technical:** SQL, Python, R, Java, data analytics, data wrangling, data scraping, data visualization, AI prompt engineering, natural language processing (NLP), analytical modeling, sports analytics, Microsoft Excel
+
+**Professional:** public speaking, leadership, writing, time management
+
+
+
+## Languages
+
+English (Native), Norwegian (Fluent), German (Beginner), Mandarin (Elementary)
+
+
+
+## Selected Coursework
+
+Statistical & Machine Learning, Philosophy of Artificial Intelligence, Database Systems, Data Structures, Linear Algebra, Data Visualization, Applied Regression Analysis, Data Science Senior Thesis, Foundations of Data Science
+
+
+
+## Download
+
+[Download full resume (PDF)](Abigail_CV_Resume_October_2026.pdf){target="_blank"}
+
+

@@ -1,0 +1,49 @@
+---
+pagetitle: "skills"
+---
+
+
+
+
+
+
+## Technical Skills
+
+**Programming Languages**  
+SQL, Python, R, Java
+
+**Data Science**  
+Data analytics, data wrangling, data scraping, data visualization, analytical modeling, sports analytics
+
+**Artificial Intelligence & NLP**  
+AI prompt engineering, natural language processing (NLP), large language modeling (LLM), artificial intelligence (AI)
+
+**Tools & Software**  
+Quarto, Git/GitHub, Microsoft Excel, 3Play Replay Systems, Ross XPression Graphics Systems
+
+
+
+## Professional Skills
+
+**Communication**  
+Public speaking, academic writing, science communication. Presented research at multiple conferences including the Mathematical Association of America Seaway Section Conference and the Festival of Science, Scholarship & Creativity. Published three articles in *The Hill News*.
+
+**Leadership & Teamwork**  
+Four years as a Division I varsity athlete. Served as an Admissions Ambassador representing the university to prospective students and families.
+
+**Teaching**  
+Led data science and mathematics courses for high school students as a STEM-UP Teaching Fellow at Temple University.
+
+
+
+## Languages
+
+| Language  | Proficiency |
+|-----------|-------------|
+| English   | Native      |
+| Norwegian | Fluent      |
+| German    | Beginner    |
+| Mandarin  | Elementary  |
+
+
+

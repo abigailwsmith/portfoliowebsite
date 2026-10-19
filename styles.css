@@ -1,0 +1,13 @@
+/* css styles */
+/*-- scss:defaults --*/
+$primary: #104e8b;
+$navbar-bg: #104e8b;
+$link-color: #104e8b;
+$body-bg: #fdfaf6;
+$navbar-brand-font-size: 1.2rem;   // site title ("Abigail Winston Smith")
+$nav-link-font-size: 0.8rem;  
+
+/*-- scss:rules --*/
+.navbar .bi {
+  font-size: 1.3rem;
+}

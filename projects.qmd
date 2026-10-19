@@ -1,0 +1,53 @@
+---
+pagetitle: "Projects & Research"
+---
+
+::: {.projects-with-bg}
+
+## Research
+
+### Analyzing the Correspondence of John Laurens and Alexander Hamilton
+
+*Senior Honors Thesis — St. Lawrence University, 2025–2026*
+
+Combined data science and history to analyze the personal correspondence between John Laurens and Alexander Hamilton. Applied large language models (LLMs) and natural language processing alongside traditional historical analysis to surface patterns in the letters. Findings are presented in a Closeread website built in Quarto.
+
+**Tools:** Python, R, LLMs, NLP, Quarto/Closeread
+
+[View thesis website →](https://laurens-hamilton-project.quarto.pub/laurens-hamilton-project/){target="_blank"}
+
+------------------------------------------------------------------------
+
+### SCORE Network — NSF Research Fellow
+
+*Department of Math, Computer Science, Data Science & Statistics, St. Lawrence University, 2024*
+
+As an NSF-funded undergraduate research fellow with the Sports Content for Outreach, Research, and Education (SCORE) Network, I carried out data wrangling, statistical analysis, and created exercises for undergraduate statistics students using sports data.
+
+**Modules contributed:** Nordic Skiing, Olympic Rowing, Handball, Badminton, Fencing, Concept2 Erg Scores (Rowing), Race Walking, and MLB Home Plate Umpires
+
+**Tools:** R, data wrangling, statistical analysis, data scraping
+
+[View SCORE Network →](https://data.scorenetwork.org){target="_blank"}
+
+------------------------------------------------------------------------
+
+## Presentations
+
+- **Festival of Science, Scholarship & Creativity** — Senior Thesis Research Poster, Spring 2026
+- **Q-Club, Math, Computer Science, Statistics & Data Science Department** — Senior Thesis Research Presentation, Spring 2026
+- **Admitted Student Webinar, Math, Computer Science, Statistics & Data Science Department** — Spring 2026
+- **Mathematical Association of America Seaway Section Conference** — Senior Thesis Research Poster, Fall 2025
+- **Festival of Science, Scholarship & Creativity** — SCORE Research Poster, Spring 2024
+
+------------------------------------------------------------------------
+
+## Publications
+
+**"Mass Shooting in Lewiston"** — *The Hill News*, November 2, 2023 [Read →](https://thehillnews.org/news/abigailsmith/mass-shooting-in-lewiston){target="_blank"}
+
+**"Community Based Learning and Volunteer Service's Sunday Funday"** — *The Hill News*, November 10, 2023 [Read →](https://thehillnews.org/news/abigailsmith/community-basedlearning-and-volunteer-services-sunday-funday){target="_blank"}
+
+**"Wait, What's My Grade?"** — *The Hill News*, December 7, 2023 [Read →](https://thehillnews.org/lp/abigailsmith/wait-whats-my-grade){target="_blank"}
+
+:::
